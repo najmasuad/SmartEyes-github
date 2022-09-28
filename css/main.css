@@ -1,0 +1,22 @@
+.centered-childs {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white-container {
+    height : 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.grey-container {
+
+}
+
+* {
+    border : 2px solid red;
+    font-family: 'Roboto', sans-serif;
+}
